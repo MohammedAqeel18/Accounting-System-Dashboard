@@ -46,9 +46,7 @@ export default function Header({
             className="min-w-0 flex-1 bg-transparent text-sm text-slate-900 outline-none placeholder:text-slate-400 dark:text-white"
           />
 
-          <span className="hidden shrink-0 rounded-md border border-slate-200 bg-slate-50 px-2 py-1 text-xs text-slate-400 dark:border-slate-700 dark:bg-slate-800 lg:block">
-            Ctrl K
-          </span>
+          
         </div>
 
         {/* Buttons and profile */}
